@@ -1,5 +1,177 @@
-h1 {color: red}
 
-table, th, td {border: 1px solid black;
-  border-collapse: collapse;}
+body {
+  background-image: url(bg.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0px
+}
+
+#toppart {
+  margin: 0px;
+  background: rgba(187, 191, 202, 0.7);
+  width: 100%;
+  height: 70px;
+  line-height: 30px;
+}
+
+#nav {
+  padding-left: 350px;
+  list-style-type: none;
+  margin: 0px;
+}
+
+#nav li {
+  padding-right: 100px;
+  float: left;
+  margin: 0px;
+}
+
+#nav li a {
+  color: #0D868A;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 0px;
+}
+
+#nav li a:hover {
+  color: black
+}
+
+#maincontent {
+  margin: 75px;
+  text-align: center;
+}
+
+.TabSections {
+  margin: auto;
+  margin-top: 75px;
+  margin-bottom: 75px;
+  text-align: left;
+  background: rgba(138, 250, 254, 0.5);
+  padding-bottom: 30px;
+  padding-left: 100px;
+}
+
+.TabSections ul {
+  list-style-type: none;
+  margin-bottom: 80px;
+}
+
+.Listfont li {
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+
+.Listfont li a {
+  color: darkblue;
+  text-decoration: none;
+}
+
+.Listfont li a:hover {
+  color: green;
+}
+
+.role {
+  margin: 0px;
+}
+
+.job {
+  margin: 0px;
+}
+
+.Mainfont {
+  font-family: 'Amatic SC', cursive;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#ContactMe {
+  margin-bottom: 0px;
+}
+
+#Schedule {
+  height: 450px;
+  line-height: 50px;
+}
+
+h1 {
+  opacity: 0.7;
+  font-size: 100px;
+  font-weight: lighter;
+  text-align: center;
+  margin: 0px;
+  color: black;
+  background: #B9FB9D;
+  font-family: 'Amatic SC', cursive;
+}
+
+h2 {
+  font-weight: normal;
+}
+
+h3 {
+  padding-top: 30px;
+  font-size: 35px;
+  text-decoration: underline;
+  color: #9E8C18;
+  font-weight: lighter;
+}
+
+h4 {
+  font-size: 30px;
+}
+
+h5 {
+  font-size: 25px;
+  font-weight: lighter;
+}
+
+p {
+  font-size: 30px;
+  font-weight: lighter;
+  color: black;
+}
+
+#tablet {
+  width: 90%;
+  margin-left: auto;
+  margin-right: 125px;
+}
+
+#WorkExperience {
+  padding-bottom: 30px;
+  height: 1450px;
+}
+
+#Skills {
+  padding-bottom: 30px;
+  height: 400px;
+}
+
+#Hobbies {
+  height: 270px;
+  padding-bottom: 30px;
+}
+
+#instagram {
+  color: darkblue;
+  text-decoration: none;
+}
+
+#instagram:hover {
+  color: green;
+}
+
+th {
+  width: 20%;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  table-layout: auto;
+}
   td {text-align: center;}
+
+  <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Open+Sans+Condensed:300" rel="stylesheet">
