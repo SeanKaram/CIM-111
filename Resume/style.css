@@ -139,7 +139,7 @@ p {
 
 #WorkExperience {
   padding-bottom: 30px;
-  height: 1450px;
+  height: 1550px;
 }
 
 #Skills {
@@ -171,7 +171,3 @@ table, th, td {
   table-layout: auto;
 }
   td {text-align: center;}
-
-  <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
-
-  <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Open+Sans+Condensed:300" rel="stylesheet">
