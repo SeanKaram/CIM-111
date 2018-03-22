@@ -1,0 +1,91 @@
+body {
+  margin: auto;
+  background: rgba(255, 255, 0, 0.3)
+}
+
+header {
+  text-align: center;
+  font-family: 'Tangerine', cursive;
+  font-size: 100px;
+  color: rgba(0,0,0,0.8);
+  background: rgb(51, 255, 255)
+}
+
+p {
+  font-family: 'Neucha', cursive;
+  font-size: 35px;
+}
+
+.navbar {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+}
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.2);
+  height: 50px;
+}
+
+.navbar a {
+  font-size: 10px;
+  font-family: 'Neucha', cursive;
+  text-decoration: none;
+  color: #000;
+}
+
+.navbar a:hover {
+  color: #fff;
+}
+
+.item {
+  text-align: center;
+  padding: 5px;
+}
+
+.beach img {
+  width: 100%
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.TCIbeach img {
+  width: 100%;
+}
+
+.footer {
+  display: grid;
+  grid-template-columns: 40% 20% 40%;
+  background-color: rgb(51, 255, 255);
+}
+
+.Flag img {
+  width: 100%;
+}
+
+.Contact p {
+  font-size: 20px;
+}
+
+.Contact ul {
+  font-family: 'Neucha', cursive;
+  font-size: 20px;
+}
+
+h2 {
+  font-family: 'Neucha', cursive;
+  font-size: 60px;
+  text-align: center;
+}
+
+.Extra a {
+  text-decoration: none;
+  display: block;
+  color: #000;
+}
+
+.Extra a:hover {
+  color: #fff
+}
