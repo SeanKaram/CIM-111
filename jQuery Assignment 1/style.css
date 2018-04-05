@@ -1,0 +1,104 @@
+#vid1 {
+  width: 70%;
+}
+
+#img2 {
+  width: 70%
+}
+
+#vid3 {
+  width: 70%
+}
+
+#vid4 {
+  width: 70%
+}
+
+#vid5 {
+  width: 70%
+}
+
+body {
+  margin: auto;
+  background-color: rgb(224, 224, 209);
+}
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 70px;
+  text-align: center;
+  background-color: rgba(64, 128, 0, 0.5);
+  margin-top: auto;
+  font-weight: lighter;
+}
+
+h2 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 40px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+#warning {
+  font-family: 'Indie Flower', cursive;
+  font-size: 100px;
+  font-weight:lighter;
+  text-align: center;
+  color: red;
+}
+
+#warningt {
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+#footer {
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+#email {
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+footer {
+  background-color: rgba(64, 128, 0, 0.5);
+  padding-bottom: 20px;
+}
+
+p {
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.Step {
+  padding-bottom: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+    background-color: rgba(64, 128, 0, 0.5);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
